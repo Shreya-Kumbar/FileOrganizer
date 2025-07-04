@@ -27,7 +27,6 @@ for file_name in os.listdir(source_folder):
             other_folder= os.path.join(source_folder, "Others")
             os.makedirs(other_folder, exist_ok=True)
             shutil.move(file_path, os.path.join(other_folder, file_name))
+            
             print(f"Moved {file_name} to {folder}")
-
-print("yes")
-print("no")
+            #prints messages showing which files are moved.
