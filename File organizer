@@ -30,3 +30,4 @@ for file_name in os.listdir(source_folder):
             print(f"Moved {file_name} to {folder}")
 
 print("yes")
+print("no")
