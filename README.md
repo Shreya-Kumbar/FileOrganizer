@@ -4,7 +4,7 @@
 
 📜**How it works**:
 
-1. Copy your folder location and paste it in source_folder. (for eg. your folder name is "K", so you paste the location (say loc_K) of "K" in source folder and it should look like-<br>
+1. Copy your folder location and paste it in source_folder. (for eg. your folder name is "K", so you paste the location of "K" (say loc_K) in source folder and it should look like-<br>
 `source_folder = r"loc_K\K"`<br>
 (added \K so it reads in the location of file, not just the desktop).<br><br>
 
