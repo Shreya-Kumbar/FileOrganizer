@@ -1,6 +1,5 @@
 # 📂File Organizer
 
-
 A python script that organizes files into folders by their types.  
 🫧Turn your messy folder containing many different types of files into a neat and easy to nagivate folder.
 
